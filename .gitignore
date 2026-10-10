@@ -1,0 +1,26 @@
+# Datos generados por el programa (incluye credenciales y cachés)
+data/
+credentials.env
+.env
+
+# Registros y estado local
+*.log
+error.log
+debug.log
+window.json
+.python_path.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Empaquetado
+build/
+dist/
+*.spec
+
+# Sistema
+Thumbs.db
+.DS_Store

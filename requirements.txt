@@ -1,0 +1,7 @@
+# Dependencias de osu! Beatmap Recommender
+requests
+python-dotenv
+rosu-pp-py
+pillow
+PySide6          # interfaz principal (Qt)
+customtkinter    # interfaz de respaldo si PySide6 no está instalado
